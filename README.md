@@ -72,7 +72,7 @@
 
 ## Where you cand find me:
 
-- [My Website 🌐](https://jennifergonzalezblog.com/)
+- [My Website 🌐](https://jg36software.com/)
 - [My Android apps at Play Store 📱](https://play.google.com/store/apps/developer?id=JG36+Software)
 - [My YouTube Chanel 📽](https://www.youtube.com/channel/UCGfehSDMDgCLixmOC371svg/featured)
 - [My email](mailto:jenniferjacqueline936@gmail.com) 📧
