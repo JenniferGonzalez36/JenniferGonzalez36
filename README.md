@@ -22,15 +22,15 @@
 * Typescript
 * Angular
 * Express
-* Wordpress
+* Wordpress 🎨
 
 - MySQL (SQL)
 - MongoDB (NoSQL)
 
 ### **Mobile development languages 📱:**
 
-- Android with Java
-- SQLite
+- 🤖 Android with Java
+- 🛢 SQLite
 
 ### **Desktop development languages 💻:**
 
@@ -43,7 +43,7 @@
 
 ### **Other languages 🚀:**
 
-- Arduino
+- 🤖 Arduino
 
 ---
 
@@ -60,21 +60,21 @@
 
 ## About me 🙋‍♀️:
 
-- I am 25 years old.
+- I am 26 years old.
 - I am from México 🟩⬜🟥.
 - I am currently studying mechatronics engineering.
-- I am a transgender woman.
+- I am a transgender woman 🏳‍🌈.
 - I live with my familly.
-- I like videogames.
+- I like videogames. 
 - I like to solve problems 🧩.
 
 ---
 
 ## Where you cand find me:
 
-- [My Website](https://jennifergonzalezblog.com/) _<- Unfortunately my site is no longer available since february, 2021_ 😥
-- [My YouTube Chanel](https://www.youtube.com/channel/UCGfehSDMDgCLixmOC371svg/featured)
-- [My Android apps at Play Store](https://play.google.com/store/apps/developer?id=JG36+Software)
+- [My Website 🌐](https://jennifergonzalezblog.com/)
+- [My Android apps at Play Store 📱](https://play.google.com/store/apps/developer?id=JG36+Software)
+- [My YouTube Chanel 📽](https://www.youtube.com/channel/UCGfehSDMDgCLixmOC371svg/featured)
 - [My email](mailto:jenniferjacqueline936@gmail.com) 📧
 
 <!---
