@@ -3,7 +3,7 @@
 **_Welcome to my repository._** 😃
 
 - 👀 I’m interested in Web development. I prefer Front End Development.
-- 🌱 I’m currently learning React ⚛.
+- 🌱 I’m currently learning **React** ⚛ 💙.
 - 💞️ I’m looking to collaborate on create wonderful Websites.
 
 ---
@@ -44,6 +44,7 @@
 ### **Other languages 🚀:**
 
 - 🤖 Arduino
+- 🚥 VHDL
 
 ---
 
@@ -67,6 +68,12 @@
 - I live with my familly.
 - I like videogames. 
 - I like to solve problems 🧩.
+
+## A Special Ability 😺
+
+- I have the ability to make different types of sounds with my mouth (for example, animal sounds) 😎🎵🎶🐕🐈🐀🐖🐓🐔🐥🦆🐘🐸🦗🐒🦜🦉🎶🎵.
+- I can also do some types of gutturals (aka: metal screams). 🎃
+- I am practicing the Xöömej (aka: Mongolian throat singing) way of singing. 🐴
 
 ---
 
