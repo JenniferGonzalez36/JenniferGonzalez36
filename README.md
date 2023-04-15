@@ -3,7 +3,7 @@
 **_Welcome to my repository._** 😃
 
 - 👀 I’m interested in Web development. I prefer Front End Development.
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning React ⚛.
 - 💞️ I’m looking to collaborate on create wonderful Websites.
 
 ---
@@ -60,7 +60,7 @@
 
 ## About me 🙋‍♀️:
 
-- I am 26 years old.
+- I am 27 years old.
 - I am from México 🟩⬜🟥.
 - I am currently studying mechatronics engineering.
 - I am a transgender woman 🏳‍🌈.
@@ -74,6 +74,7 @@
 
 - [My Website 🌐](https://jg36software.com/)
 - [My Android apps at Play Store 📱](https://play.google.com/store/apps/developer?id=JG36+Software)
+- [My linkedin](https://www.linkedin.com/in/jennifer-gonzalez-6343991a9/)
 - [My YouTube Chanel 📽](https://www.youtube.com/channel/UCGfehSDMDgCLixmOC371svg/featured)
 - [My email](mailto:jenniferjacqueline936@gmail.com) 📧
 
